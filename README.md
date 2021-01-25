@@ -28,4 +28,6 @@ Jupyter-Notebook:
 
 *Plotted bar chart of average salaries  by grouping *(employee+salaries)* & *titles* tables.
 
+*Epilogue:  Searched for employee ID number 499942.
+
 
